@@ -1,6 +1,7 @@
+![image](https://github.com/Obrempong12/AirBnB_clone_v3/assets/144380171/76102e63-868d-44ea-aa5a-48526b5bbe60)
 # AirBnB Clone: Phase # 3
 ---
-: API with Swagger
+![image](https://github.com/Obrempong12/AirBnB_clone_v3/assets/144380171/1fc1da63-4a21-45db-bad3-6e0d88ed6077)
 
 ## Description
 
