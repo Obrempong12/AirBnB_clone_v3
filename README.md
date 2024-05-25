@@ -204,7 +204,7 @@ create: create [ARG] [PARAM 1] [PARAM 2] ...
 
 ### Continuous Integration Tests
 
-Uses [Travis-CI](https://travis-ci.org/) to run all tests on all commits to the
+Uses a Ubuntu 20.04 - NodeJS 14 Terminal to run all tests on all commits to the
 github repo
 
 ## Authors
