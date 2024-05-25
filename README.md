@@ -1,8 +1,7 @@
-![image](https://github.com/Obrempong12/AirBnB_clone_v3/assets/144380171/76102e63-868d-44ea-aa5a-48526b5bbe60)
 # AirBnB Clone: Phase # 3
----
-![image](https://github.com/Obrempong12/AirBnB_clone_v3/assets/144380171/1fc1da63-4a21-45db-bad3-6e0d88ed6077)
+![image](https://github.com/Obrempong12/AirBnB_clone_v3/assets/144380171/d84089ef-1672-4d63-b73d-dbc36f407af5)
 
+---
 ## Description
 
 Project attempts to clone the the AirBnB application and website, including the
@@ -44,7 +43,7 @@ HBNB_MYSQL_HOST=localhost HBNB_MYSQL_DB=hbnb_test_db HBNB_TYPE_STORAGE=db \
   * __python:__ PEP 8 (v. 1.7.0)
   * __web static:__ [W3C Validator](https://validator.w3.org/)
   * __bash:__ ShellCheck 0.3.3
-
+![image](https://github.com/Obrempong12/AirBnB_clone_v3/assets/144380171/51adb467-323a-4fff-a872-4908d958e775)
 
 ## Configuration Files
 
